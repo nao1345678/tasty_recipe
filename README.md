@@ -1,7 +1,7 @@
 # Tasty Recipe 
-### Link 
+## Link 
 Here's the link to the Figma prototype I created for an UXUI project : https://www.figma.com/proto/gP8uqGGD3t43VbTyw4EnyU/Tasty-Recipe?page-id=16%3A158&type=design&node-id=16-159&viewport=176%2C114%2C0.2&t=z5cJ0OvjpsQpmMx5-1&scaling=scale-down&starting-point-node-id=16%3A159&mode=design.
-### How to see all the features ? 
+## How to see all the features ? 
 The goal was to create a really simple and intuitive design for a recipe website. Here are the features already existing on the 
 #### Authentification page 
 You can see the basic design of the authentification page and click on "Connexion" to be redirected to the Home Page of the website. When you click on the 
